@@ -1,0 +1,4 @@
+Iteration    50 | Cost: 9.558444e-003
+Program paused. Press enter to continue.
+
+Training Set Accuracy: 95.000000

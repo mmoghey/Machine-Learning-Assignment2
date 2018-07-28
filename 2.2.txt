@@ -1,0 +1,4 @@
+Cost at initial theta (zeros): 0.693147
+
+Program paused. Press enter to continue.
+Train Accuracy: 83.050847

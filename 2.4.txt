@@ -1,0 +1,7 @@
+Plotting data with + indicating (y = 1) examples and o indicating (y = 0) examples.
+
+Program paused. Press enter to continue.
+
+Training Accuracy of LDA is: 89
+
+Program paused. Press enter to continue.

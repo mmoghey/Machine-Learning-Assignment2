@@ -1,0 +1,48 @@
+Problem Set 2: Classification
+
+Last Name: Moghey	
+First Name: Manasee
+Email: manasee_moghey@student.uml.edu
+
+Written exercises 1
+Points 10
+Points you obtained 10
+============================================================
+Written exercises 2
+Points 10
+Points you obtained 10
+============================================================
+Written exercises 3
+Points 10
+Points you obtained 10
+============================================================
+Sigmoid Function
+Points 5
+Points you obtained 5
+============================================================
+costFunction.m
+Points 15 
+Points you obtained 15
+============================================================
+Predict function
+Points 20 
+Points you obtained 20
+============================================================
+costFunctionReg.m
+Points 20
+Points you obtained 20
+============================================================
+One-vs-all
+Points 20
+Points you obtained 20
+============================================================
+Linear Discriminant Analysis, lda.m
+Points 20
+Points you obtained 20
+============================================================
+Overall
+Points 130
+Points you obtained 
+============================================================
+
+Instructions: Fill in your name and email address. Write the points you got for each problem and subproblem and the overall points you got. For each subproblem (of part 2, “Programming problems”) you can only get full credit or zero, i.e. there is no partial credit for each subproblem except for written problems).  Omission of this file will result in 0 points.

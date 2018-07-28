@@ -1,0 +1,26 @@
+Plotting data with + indicating (y = 1) examples and o indicating (y = 0) examples.
+
+Program paused. Press enter to continue.
+Sigmoid function test:
+ 0.000000
+ 0.500000
+ 1.000000
+
+Program paused. Press enter to continue.
+Cost at initial theta (zeros): 0.693147
+Gradient at initial theta (zeros):
+ -0.100000
+ -12.009217
+ -11.262842
+
+Program paused. Press enter to continue.
+Cost at theta found by fminunc: 0.203498
+theta:
+ -25.161272
+ 0.206233
+ 0.201470
+
+Program paused. Press enter to continue.
+For a student with scores 45 and 85, we predict an admission probability of 0.776289
+
+Train Accuracy: 89.000000
